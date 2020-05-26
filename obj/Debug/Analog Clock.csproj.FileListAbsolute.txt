@@ -1,0 +1,9 @@
+c:\users\abah joseph israel\documents\visual studio 2015\Projects\Analog Clock\bin\Debug\Analog Clock.exe.config
+c:\users\abah joseph israel\documents\visual studio 2015\Projects\Analog Clock\obj\Debug\Analog Clock.csprojResolveAssemblyReference.cache
+c:\users\abah joseph israel\documents\visual studio 2015\Projects\Analog Clock\obj\Debug\Analog_Clock.Form1.resources
+c:\users\abah joseph israel\documents\visual studio 2015\Projects\Analog Clock\obj\Debug\Analog_Clock.Properties.Resources.resources
+c:\users\abah joseph israel\documents\visual studio 2015\Projects\Analog Clock\obj\Debug\Analog Clock.csproj.GenerateResource.Cache
+c:\users\abah joseph israel\documents\visual studio 2015\Projects\Analog Clock\bin\Debug\Analog Clock.exe
+c:\users\abah joseph israel\documents\visual studio 2015\Projects\Analog Clock\bin\Debug\Analog Clock.pdb
+c:\users\abah joseph israel\documents\visual studio 2015\Projects\Analog Clock\obj\Debug\Analog Clock.exe
+c:\users\abah joseph israel\documents\visual studio 2015\Projects\Analog Clock\obj\Debug\Analog Clock.pdb
